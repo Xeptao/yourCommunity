@@ -13,7 +13,7 @@ This was one of my projects.
 - SASS
 
 # Installation
-### No Dependencies used.
+- No Dependencies used during the build of this project.
 
 # License
-### No license, you can do whatever you want with the code that I, "Xeptao" wrote.
+- No license, you can do whatever you want with the code that I, "Xeptao" wrote.
