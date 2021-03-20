@@ -10,4 +10,7 @@ This was one of my projects.
 - SASS
 
 # Installation
-## No Dependencies used.
+### No Dependencies used.
+
+# License
+### No license, you can do whatever you want with the code that I, "Xeptao" wrote.
