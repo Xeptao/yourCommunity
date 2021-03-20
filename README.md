@@ -5,6 +5,9 @@ yourCommunity is NOT a real company, it's just a company that i made up for proj
 The idea was to present the best app for your community, this was a semi-responsive, no Javascript, very basic website.
 This was one of my projects.
 
+# Motivation
+- Motivation behind this **[Imaginary](https://en.wikipedia.org/wiki/Imaginary_(sociology))** company is to serve people the best app for their community, with accessibility attributes.  
+
 # Technologies
 - HTML5
 - SASS
