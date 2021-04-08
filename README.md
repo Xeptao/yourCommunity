@@ -1,6 +1,6 @@
 # yourCommunity
 
-[Live preview >](https://yourcommunityy.netlify.app/)
+[Live preview >](https://yourcommunityy.netlify.app/) \
 Source code of the yourCommunity website.
 
 yourCommunity is NOT a real company, it's just a company that i made up for project ideas.
