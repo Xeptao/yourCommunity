@@ -23,3 +23,6 @@ This was one of my projects.
 ## License
 
 - No license, you can do whatever you want with the code that I, "Xeptao" wrote.
+
+## Update
+This project will be archived and never be changed as its special.
